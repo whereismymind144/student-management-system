@@ -12,6 +12,3 @@ class EmailAlert(Observer):
             f'[EmailAlert] Надіслано повідомлення '
             f'"{message}" на {self.email}'
         )
-
-
-

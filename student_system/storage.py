@@ -40,7 +40,3 @@ class DataStorage(StudentSearch):
                 or query in str(student.student_id)
             )
         ]
-
-
-
-

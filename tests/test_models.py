@@ -4,11 +4,9 @@ from unittest import mock
 from student_system.models import (
     User,
     Student,
-    Teacher,
-    Administrator,
     StudyGroup,
     Subject,
-    Grade
+    Grade,
 )
 
 

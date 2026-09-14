@@ -18,9 +18,3 @@ class StudentSearch(ABC):
     def search_students(self, query: str) -> List[object]:
         """Пошук студентів за заданим запитом."""
         pass
-
-
-
-
-
-
